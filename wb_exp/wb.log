@@ -1,0 +1,65 @@
+2022-04-13 18:24:44,796 [INFO] init (54) -> WB_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjM1ZjA3MWZlLTFhYjUtNDc2Yi05M2NmLTQ5NDQ3NjM3ZTMzOCJ9.VqTpmQ0H5lhgH44hKXILn60rcJ-0tGT4v3vqDEFYCuA
+2022-04-13 18:24:44,798 [INFO] init (55) -> WB_server: https://suppliers-api.wildberries.ru
+2022-04-13 18:24:44,798 [INFO] init (56) -> Export_catalog: c:\Python\projicts\wb_loading_exp\exp\
+2022-04-13 18:24:44,798 [INFO] get_product_list (62) -> Start
+2022-04-13 18:24:47,451 [INFO] get_product_list (86) -> Products count: 7926
+2022-04-13 18:24:52,951 [INFO] get_curr_supplie (303) -> product_list count: 7926
+2022-04-13 18:24:52,951 [INFO] get_order_list (111) -> Start
+2022-04-13 18:24:52,952 [INFO] get_order_list (119) -> date_start: 2022-03-14T23:59:59+04:00
+2022-04-13 18:24:52,952 [INFO] get_order_list (120) -> date_end: 2022-04-14T00:00:00+04:00
+2022-04-13 18:24:53,374 [INFO] get_order_list (151) -> Orders count: 25
+2022-04-13 18:24:53,374 [INFO] get_curr_supplie (312) -> order_list count: 25
+2022-04-13 18:24:53,375 [INFO] get_sticker_list (189) -> Start
+2022-04-13 18:24:53,375 [INFO] get_sticker_list (208) -> len(orderIds): 25
+2022-04-13 18:24:53,874 [INFO] get_curr_supplie (315) -> sticker_list count: 25
+2022-04-13 18:24:53,874 [INFO] match_lists (246) -> Start
+2022-04-13 18:24:53,937 [INFO] export_supplie (15) -> Start
+2022-04-13 18:25:26,656 [INFO] init (54) -> WB_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjM1ZjA3MWZlLTFhYjUtNDc2Yi05M2NmLTQ5NDQ3NjM3ZTMzOCJ9.VqTpmQ0H5lhgH44hKXILn60rcJ-0tGT4v3vqDEFYCuA
+2022-04-13 18:25:26,656 [INFO] init (55) -> WB_server: https://suppliers-api.wildberries.ru
+2022-04-13 18:25:26,657 [INFO] init (56) -> Export_catalog: c:\Python\projicts\wb_loading_exp\exp\
+2022-04-13 18:25:26,657 [INFO] get_product_list (62) -> Start
+2022-04-13 18:25:28,205 [INFO] get_product_list (86) -> Products count: 7926
+2022-04-13 18:25:33,990 [INFO] get_curr_supplie (303) -> product_list count: 7926
+2022-04-13 18:25:33,990 [INFO] get_order_list (111) -> Start
+2022-04-13 18:25:33,990 [INFO] get_order_list (119) -> date_start: 2022-03-14T23:59:59+04:00
+2022-04-13 18:25:33,991 [INFO] get_order_list (120) -> date_end: 2022-04-14T00:00:00+04:00
+2022-04-13 18:25:34,409 [INFO] get_order_list (151) -> Orders count: 25
+2022-04-13 18:25:34,410 [INFO] get_curr_supplie (312) -> order_list count: 25
+2022-04-13 18:25:34,410 [INFO] get_sticker_list (189) -> Start
+2022-04-13 18:25:34,410 [INFO] get_sticker_list (208) -> len(orderIds): 25
+2022-04-13 18:25:34,891 [INFO] get_curr_supplie (315) -> sticker_list count: 25
+2022-04-13 18:25:34,891 [INFO] match_lists (246) -> Start
+2022-04-13 18:25:34,939 [INFO] export_supplie (15) -> Start
+2022-04-13 18:25:50,025 [INFO] init (54) -> WB_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjM1ZjA3MWZlLTFhYjUtNDc2Yi05M2NmLTQ5NDQ3NjM3ZTMzOCJ9.VqTpmQ0H5lhgH44hKXILn60rcJ-0tGT4v3vqDEFYCuA
+2022-04-13 18:25:50,026 [INFO] init (55) -> WB_server: https://suppliers-api.wildberries.ru
+2022-04-13 18:25:50,026 [INFO] init (56) -> Export_catalog: c:\Python\projicts\wb_loading_exp\exp\
+2022-04-13 18:25:50,026 [INFO] get_product_list (62) -> Start
+2022-04-13 18:25:51,690 [INFO] get_product_list (86) -> Products count: 7926
+2022-04-13 18:25:57,257 [INFO] get_curr_supplie (303) -> product_list count: 7926
+2022-04-13 18:25:57,257 [INFO] get_order_list (111) -> Start
+2022-04-13 18:25:57,257 [INFO] get_order_list (119) -> date_start: 2022-03-14T23:59:59+04:00
+2022-04-13 18:25:57,258 [INFO] get_order_list (120) -> date_end: 2022-04-14T00:00:00+04:00
+2022-04-13 18:25:57,647 [INFO] get_order_list (151) -> Orders count: 25
+2022-04-13 18:25:57,648 [INFO] get_curr_supplie (312) -> order_list count: 25
+2022-04-13 18:25:57,648 [INFO] get_sticker_list (189) -> Start
+2022-04-13 18:25:57,648 [INFO] get_sticker_list (208) -> len(orderIds): 25
+2022-04-13 18:25:58,089 [INFO] get_curr_supplie (315) -> sticker_list count: 25
+2022-04-13 18:25:58,089 [INFO] match_lists (246) -> Start
+2022-04-13 18:25:58,146 [INFO] export_supplie (15) -> Start
+2022-04-13 18:28:27,307 [INFO] init (54) -> WB_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjM1ZjA3MWZlLTFhYjUtNDc2Yi05M2NmLTQ5NDQ3NjM3ZTMzOCJ9.VqTpmQ0H5lhgH44hKXILn60rcJ-0tGT4v3vqDEFYCuA
+2022-04-13 18:28:27,307 [INFO] init (55) -> WB_server: https://suppliers-api.wildberries.ru
+2022-04-13 18:28:27,308 [INFO] init (56) -> Export_catalog: c:\Python\projicts\wb_loading_exp\exp\
+2022-04-13 18:28:27,308 [INFO] get_product_list (62) -> Start
+2022-04-13 18:28:28,437 [INFO] get_product_list (86) -> Products count: 7926
+2022-04-13 18:28:33,665 [INFO] get_curr_supplie (303) -> product_list count: 7926
+2022-04-13 18:28:33,665 [INFO] get_order_list (111) -> Start
+2022-04-13 18:28:33,665 [INFO] get_order_list (119) -> date_start: 2022-03-14T23:59:59+04:00
+2022-04-13 18:28:33,665 [INFO] get_order_list (120) -> date_end: 2022-04-14T00:00:00+04:00
+2022-04-13 18:28:34,104 [INFO] get_order_list (151) -> Orders count: 25
+2022-04-13 18:28:34,104 [INFO] get_curr_supplie (312) -> order_list count: 25
+2022-04-13 18:28:34,105 [INFO] get_sticker_list (189) -> Start
+2022-04-13 18:28:34,105 [INFO] get_sticker_list (208) -> len(orderIds): 25
+2022-04-13 18:28:34,519 [INFO] get_curr_supplie (315) -> sticker_list count: 25
+2022-04-13 18:28:34,519 [INFO] match_lists (246) -> Start
+2022-04-13 18:28:34,540 [INFO] export_supplie (15) -> Start
+2022-04-13 18:28:34,812 [INFO] export_supplie (34) -> 25 orders exported

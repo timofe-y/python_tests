@@ -1,0 +1,1 @@
+START c:\Python36\python.exe main.py
